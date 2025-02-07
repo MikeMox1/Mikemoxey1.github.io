@@ -1,11 +1,11 @@
 ### your site title here
 
 title: Michael Moxey
-description: subtitle | affiliations | motto
+description: Data Analys
 
 baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
-email: #
+url: "https://github.com/MikeMox1/Mikemoxey1.github.io.git" 
+email: MicMoxey@gmail.com
 
 # Pagination
 paginate: 4
@@ -13,15 +13,10 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-linkedin: "#"
-stackoverflow: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
-quora: "#"
+linkedin: "Linkedin.com/in/MicMoxey"
+github: "https://github.com/MikeMox1"
 instagram: "#"
 facebook: "#"
-bluesky: "#"
 
 # Markdown
 highlighter: rouge
